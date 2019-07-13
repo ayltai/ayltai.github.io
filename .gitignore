@@ -1,0 +1,14 @@
+# Ruby
+Gemfile.lock
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
