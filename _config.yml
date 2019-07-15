@@ -1,46 +1,18 @@
-# Site metadata
+# Site settings
 title       : Because it matters
 description : Making things happen, making things right, because it matters.
-baseurl     : ""
-url         : "https://ayltai.github.io"
+author      : Alan Tai
 
-# Site settings
+# Page settings
 markdown      : kramdown
+highlighter   : rouge
 paginate      : 5
 paginate_path : page/:num
 
-# Authors
-authors:
-  ayltai:
-    name: Alan Tai
-    avatar: assets/img/avatar.png
-    url: https://www.linkedin.com/in/ayltai
-
-# Theme settings
-remote_theme   : sylhare/Type-on-Strap
-theme_settings :
-  # Metadata
-  avatar               : assets/img/avatar.png
-  header_text          : Making things happen<br>Making things right<br>Because it matters
-  header_feature_image : assets/img/hongkong.png
-  footer_text          : Copyright &copy; 2019 Alan Tai. All rights reserved.
-
-  # 3rd party integrations
-  disqus_shortname : ayltai
-  google_analytics : UA-143796320-1
-
-  # Social sharing
-  github   : ayltai
-  linkedin : https://www.linkedin.com/in/ayltai
-  rss      : true
-
-  share_buttons:
-    facebook : true
-    twitter  : true
-    reddit   : true
-    linkedin : true
+remote_theme : ayltai/kiss
 
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap

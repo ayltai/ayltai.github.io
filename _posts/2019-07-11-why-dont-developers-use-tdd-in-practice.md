@@ -1,28 +1,22 @@
 ---
-layout            : post
-author-id         : ayltai
-date              : 2019-07-11
-title             : Why don’t developers use TDD in practice
-subtitle          : How to make TDD great again
-hide_title        : true
-thumbnail         : assets/img/posts/2019/07/11/dog-thumb.jpg
-categories        : Testing
-tags              : [TDD, Unit Test, Software Development]
-excerpt_separator : <!--more-->
+layout     : post
+author     : Alan Tai
+date       : 2019-07-11
+title      : Why don’t developers use TDD in practice
+subtitle   : How to make TDD great again
+image      : posts/2019/07/11/dog.jpg
+categories : Testing
+tags       : [TDD, Unit Test, Software Development]
 ---
-<br>
-
 ![Photo by Matthew Henry on Unsplash](https://images.unsplash.com/photo-1423958950820-4f2f1f44e075?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=85)
 
 Like everything that comes under the name of Agile, Test Driven Development (TDD) is something that sounds great in theory. In practice, it is unclear how to do it right. You are often told that if you don’t like it, you are doing it wrong. It comes as no surprise that most developers I’ve met could explain the benefits of using TDD while none of them used it in their work. Not a single one.
-<!--more-->
 
 Lately, there have been voices against TDD, blaming it not worth the effort and not keeping many of its promises. Some even claim that TDD is dead. How could something so advantageous is so unwelcome to developers?
 
 In this article, I want to talk about four major problems with TDD in practice that explain this phenomenon.
 
 [![Where are the tests?](https://www.commitstrip.com/wp-content/uploads/2017/02/Strip-Ou-sont-les-tests-unitaires-english650-final.jpg)](www.commitstrip.com/en/2017/02/08/where-are-the-tests/)
-
 
 ### Problem 1: Refactoring breaks many tests
 
@@ -32,13 +26,11 @@ In the end, we doubt if it is worth rewriting the test code if we are sure we wi
 
 [![When the functional tests are all red](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Du-rouge-au-vert-650-finalenglish.jpg)](http://www.commitstrip.com/en/2016/02/22/when-the-functional-tests-are-all-red/)
 
-
 ### Problem 2: Writing more test code than implementation code
 
 To test a “unit” of the implementation code, we often write tests for all public methods and write mocks for dependencies. Sometimes we make private methods public because otherwise there is no way to increase our code coverage. We create test cases to cover as many different flows of the implementation code as possible.
 
 We end up being unproductive as we write more test code than the implementation code. Tests will not be released and delivered to users. It makes more sense to skip tests as it seems to speed up development.
-
 
 ### Problem 3: Red-Green-Refactor encourages writing bad code
 
@@ -58,11 +50,9 @@ This destroys our values as developers. It is almost a violation of programming 
 
 [![Writing bad code to make red become green](http://www.commitstrip.com/wp-content/uploads/2015/07/Strip-Le-bien-et-le-mal-650-finalenglish.jpg)](http://www.commitstrip.com/en/2015/07/30/coders-weaknesses-1-the-trycatch/)
 
-
 ### Problem 4: Code coverage measurement
 
 It is an old saying, “What gets measured gets done.” If quality is measured by code coverage, developers will try every attempts to meet that minimum code coverage requirement. If we are not allowed to ship when code coverage is below 85%, we will end up adding more and more tests, usually those easiest to create, to make it just over 85% and no more. Ironically, most of these tests are trivial and without much value to ensure quality. It shifts developer to focus on finding ways to create low-quality tests just to hit the minimum code coverage target.
-
 
 ## Making TDD great again
 
@@ -86,7 +76,6 @@ For the last problem about code coverage could be solved easily if we understand
 
 [![A magical cure](https://www.commitstrip.com/wp-content/uploads/2016/10/Strip-Chez-le-Psy-4-english650-final-1.jpg)](http://www.commitstrip.com/en/2016/10/27/a-magical-cure/)
 
-
 ### TDD as a habit
 
 Unit testing, and a lot of other Agile terminology, is like going to the gym. You know it is good for you, all the arguments make sense, so you start working out. You are so motivated initially, which is great, but after a few days of exercise, you start to rethink if it is worth the effort. You are spending an hour a day to change your clothes and run like a hamster. Yet you are not sure if you are really getting anything other than sore legs and arms.
@@ -98,4 +87,3 @@ You do some reading and observe others, to see if you are doing something wrong.
 Now, start practicing TDD in your work and when in doubt, read the [book](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) again.
 
 ![Muhammad Ali (1942–2016)](/assets/img/posts/2019/07/11/muhammad-ali.jpg)
-<p align="center">Muhammad Ali (1942–2016)</p>
