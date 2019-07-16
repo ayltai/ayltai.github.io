@@ -344,6 +344,6 @@ The final step is to deploy the release APK. This is similar to `build_debug` ta
 
 ## Conclusion
 
-From my experience using CircleCI 2.0 with Firebase Test Lab, the build time of my sample ]open source project](https://github.com/ayltai/Newspaper) has been reduced from 30–45 minutes to 15–20 minutes, about 50% speed improvement and significant cost reduction.
+From my experience using CircleCI 2.0 with Firebase Test Lab, the build time of my sample [open source project](https://github.com/ayltai/Newspaper) has been reduced from 30–45 minutes to 15–20 minutes, about 50% speed improvement and significant cost reduction.
 
 There is one caveat though: in CircleCI 2.0, running tasks cannot be automatically canceled by a Git push to the same branch. If you are on a paid plan, and you do Git push very frequently, it may end up costing you more than CircleCI 1.0.
