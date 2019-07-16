@@ -158,7 +158,7 @@ android_config: &android_config
 We run `androidDependencies` task to download, if not cached, all project dependencies and save them to cache, shared by all containers. A typical cache key should look like this:
 
 ```yml
-cache-{{ checksum "gradle/wrapper/gradle-wrapper.properties" }}-{{ checksum "build.gradle" }}-{{ checksum "app/build.gradle" }}
+{% raw %}cache-{{ checksum "gradle/wrapper/gradle-wrapper.properties" }}-{{ checksum "build.gradle" }}-{{ checksum "app/build.gradle" }}{% endraw %}
 ```
 
 The value of the cache key should change if any of the project dependencies changes.
