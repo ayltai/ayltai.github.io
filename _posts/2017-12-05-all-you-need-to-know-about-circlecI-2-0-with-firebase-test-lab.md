@@ -90,7 +90,7 @@ version: 2references:
 
 The workflow of the above tasks is illustrated below. Tasks, `build_debug`, `build_release` and `test_unit`, are executed in parallel, while the rest of the tasks will run as soon as they are ready.
 
-![The suggested Android build workflow](/assets/img/post/2017/12/06/workflow.png "The suggested Android build workflow")
+![The suggested Android build workflow](/assets/img/posts/2017/12/06/workflow.png "The suggested Android build workflow")
 
 I will use my [open source project](https://github.com/ayltai/Newspaper) as an example. The complete YAML file is available [here](https://github.com/ayltai/Newspaper/blob/master/.circleci/config.yml).
 
@@ -157,7 +157,7 @@ android_config: &android_config
 
 We run `androidDependencies` task to download, if not cached, all project dependencies and save them to cache, shared by all containers. A typical cache key should look like this:
 
-```
+```yml
 cache-{{ checksum "gradle/wrapper/gradle-wrapper.properties" }}-{{ checksum "build.gradle" }}-{{ checksum "app/build.gradle" }}
 ```
 
