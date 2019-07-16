@@ -1,6 +1,11 @@
 favicon : favicon.png
+
 menu:
+  - { name : 'Home',  path : '',      url : '' }
   - { name : 'About', path : 'pages', url : 'about.html' }
+
+authors:
+  - { name : 'Alan Tai', url : 'https://www.linkedin.com/in/ayltai' }
 
 disqus:
   shortname : ayltai
@@ -16,5 +21,3 @@ social:
 pagination:
   previous : Older posts
   next     : Newer posts
-
-post_date_prefix : Published on

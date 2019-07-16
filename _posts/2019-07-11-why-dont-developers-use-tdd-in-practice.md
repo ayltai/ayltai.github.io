@@ -6,10 +6,7 @@ title      : Why don’t developers use TDD in practice
 subtitle   : How to make TDD great again
 image      : posts/2019/07/11/dog.jpg
 categories : Testing
-tags       : [TDD, Unit Test, Software Development]
 ---
-![Photo by Matthew Henry on Unsplash](https://images.unsplash.com/photo-1423958950820-4f2f1f44e075?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=85)
-
 Like everything that comes under the name of Agile, Test Driven Development (TDD) is something that sounds great in theory. In practice, it is unclear how to do it right. You are often told that if you don’t like it, you are doing it wrong. It comes as no surprise that most developers I’ve met could explain the benefits of using TDD while none of them used it in their work. Not a single one.
 
 Lately, there have been voices against TDD, blaming it not worth the effort and not keeping many of its promises. Some even claim that TDD is dead. How could something so advantageous is so unwelcome to developers?
