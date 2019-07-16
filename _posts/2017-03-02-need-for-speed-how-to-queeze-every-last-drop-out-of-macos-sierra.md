@@ -5,7 +5,7 @@ date       : 2017-03-02
 title      : Need for speed — How to squeeze every last drop out of macOS Sierra
 subtitle   : A macOS performance tweaking guide for hardcore Android developers
 image      : posts/2017/03/02/cover.jpg
-categories : Interview
+categories : Hacks
 ---
 No doubt that Mac = beauty + performance, but why do we always hear developers complaining the slowness of their Macs? macOS, just like any other products, is optimized for the majority of users. We, software developers, are the minority. The tools we use, the long hours of we spend on a Mac, and the speed we need are different from the general public.
 

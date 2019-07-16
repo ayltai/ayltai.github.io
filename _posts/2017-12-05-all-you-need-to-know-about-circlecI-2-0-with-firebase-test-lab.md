@@ -4,7 +4,7 @@ author     : Alan Tai
 date       : 2017-12-05
 title      : All you need to know about CircleCI 2.0 with Firebase Test Lab
 subtitle   : Learn how to run super fast Android tests on CircleCI 2.0 & Firebase Test Lab
-image      : posts/2017/12/05/meme.jpg
+image      : posts/2017/12/06/meme.jpg
 categories : Pipeline
 ---
 ## Problem with CircleCI 1.0
