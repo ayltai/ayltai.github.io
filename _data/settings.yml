@@ -1,7 +1,7 @@
 favicon : favicon.png
 
 menu:
-  - { name : 'Home',  path : '',      url : '' }
+  - { name : 'Home' }
   - { name : 'About', path : 'pages', url : 'about.html' }
 
 authors:
