@@ -21,7 +21,7 @@ If we make a small change to the implementation code, none of the tests would br
 
 In the end, we doubt if it is worth rewriting the test code if we are sure we will refactor the implementation code. Can we write fewer tests? Can we skip all the tests? Then, someone will suggest writing tests when all changes are made, like the day before release. In practice, it is often after release, or never.
 
-[![When the functional tests are all red](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Du-rouge-au-vert-650-finalenglish.jpg)](http://www.commitstrip.com/en/2016/02/22/when-the-functional-tests-are-all-red/)
+[![When the functional tests are all red](https://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Du-rouge-au-vert-650-finalenglish.jpg)](http://www.commitstrip.com/en/2016/02/22/when-the-functional-tests-are-all-red/)
 
 ### Problem 2: Writing more test code than implementation code
 
@@ -45,7 +45,7 @@ This approach could be problematic, especially to senior developers, because thi
 
 This destroys our values as developers. It is almost a violation of programming ethics, illegal and unprofessional.
 
-[![Writing bad code to make red become green](http://www.commitstrip.com/wp-content/uploads/2015/07/Strip-Le-bien-et-le-mal-650-finalenglish.jpg)](http://www.commitstrip.com/en/2015/07/30/coders-weaknesses-1-the-trycatch/)
+[![Writing bad code to make red become green](https://www.commitstrip.com/wp-content/uploads/2015/07/Strip-Le-bien-et-le-mal-650-finalenglish.jpg)](http://www.commitstrip.com/en/2015/07/30/coders-weaknesses-1-the-trycatch/)
 
 ### Problem 4: Code coverage measurement
 
