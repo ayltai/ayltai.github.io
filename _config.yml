@@ -2,6 +2,7 @@
 title       : Because it matters
 description : Making things happen, making things right, because it matters.
 author      : Alan Tai
+baseurl     : https://alantai.dev
 
 # Page settings
 markdown      : kramdown
