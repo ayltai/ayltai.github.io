@@ -20,3 +20,4 @@ If you've read thus far, I believe we share some common values that ring your be
 * Professional Scrum Developer
 * AWS Certified Developer
 * Microsoft Certified Professional
+* Google Cloud Certified Professional
