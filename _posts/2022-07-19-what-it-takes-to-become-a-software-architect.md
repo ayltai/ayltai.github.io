@@ -70,6 +70,8 @@ A Software Architect is also a great communicator. Many great Senior Software En
 
 At my company, I’m offered the opportunities to practice these skills in safe environments such as the ones we called “[Zuhlke Day](https://www.zuehlke.com/en/welcome-to-zuhlke-hong-kong)” and “[Zuhlke Camp](https://www.zuehlke.com/en/insights/zuhlkes-curiosity-capital-learning-development-during-a-pandemic)”. My employer also offered me formalised [training](https://www.zuehlke.com/en/our-projects/getting-better-together-at-zuhlke-you-never-stop-developing) in these areas. Lastly, the constructive feedback culture of the company has supported the growth of many individuals.
 
+![Zuhlke Asia Camp 2019 @ Legacy Yen Tu, Vietnam](/assets/img/posts/2022/07/19/camp.jpg)
+
 ### Technical skills
 
 There isn’t a single university degree that qualifies you as a Software Architect. You need to learn everything you can about all areas of software engineering including software design, coding, quality assurance, DevOps, performance engineering, software security, project management, software support, and so on. These skills are crucial to creating solutions that satisfy software architecture “-ilities”. When talking to the experts in a development team, a Software Architect understands better the relevant information because they have gained hands-on experience in these areas.
