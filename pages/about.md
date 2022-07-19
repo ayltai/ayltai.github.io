@@ -18,6 +18,7 @@ As an engineer, I am hungry to make an impact. As a technical lead, I have the c
 * [Senior Backend Software Engineer](https://1brd.ly/46G5b?st=kmtn9c6dqqo6)
 * [Senior Frontend Software Engineer](https://1brd.ly/PLPYX?st=h7qnnlhl2kui)
 * [Senior Mobile Software Engineer](https://1brd.ly/15npy?st=8mi6u8l5j2jt)
+* [Senior Data Engineer](https://1brd.ly/BaY8B?st=ora85rsqnsuq)
 * [Full-Stack Software Engineer](https://1brd.ly/K34Y6?st=hur7a9q8uo0d)
 * [Backend Software Engineer](https://1brd.ly/oka65?st=t0tgtga6c3q7)
 * Frontend Software Engineer (No openings are available at the moment)
