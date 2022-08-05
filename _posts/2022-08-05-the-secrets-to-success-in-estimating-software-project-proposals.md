@@ -30,7 +30,7 @@ It is crucial for a consulting firm to accurately estimate the cost of deliverin
 
 ### For scope estimation
 
-Usually, we get a better understanding of the project scope through the exercise of estimation. We are forced to think of unstated requirements, non-functional requirements, and all other necessary activities that take time. This is important for service providers to decide whether it is a manageable scope that is worth proposing or if the scope is too big or risky and they should give up.
+Usually, we get a better understanding of the project scope through the exercise of estimation. We are forced to think of unstated requirements, non-functional requirements, and all other necessary activities that take time. It is important for service providers to decide whether it is a manageable scope that is worth proposing or if the scope is too big or risky and they should give up.
 
 ### For time estimation
 
