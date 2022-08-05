@@ -6,7 +6,7 @@ title      : The secrets to success in estimating software project proposals
 image      : posts/2022/08/05/cover.jpg
 categories : Estimation
 ---
-[QuickDraw](https://en.wikipedia.org/wiki/QuickDraw) is the 2D graphics library written entirely by B[ill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson) in the 1980s. [Andy Hertzfeld](https://en.wikipedia.org/wiki/Andy_Hertzfeld) considers it the single most significant component of the original Macintosh technology. It consists of a total of 17,101 lines of code in assembly language. During a magazine interview, Bill remembered that he worked on it on and off for four years. Steve Jobs told the magazine reporter that it was 24 person-years Apple had invested in QuickDraw.
+[QuickDraw](https://en.wikipedia.org/wiki/QuickDraw) is the 2D graphics library written entirely by [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson) in the 1980s. [Andy Hertzfeld](https://en.wikipedia.org/wiki/Andy_Hertzfeld) considers it the single most significant component of the original Macintosh technology. It consists of a total of 17,101 lines of code in assembly language. During a magazine interview, Bill remembered that he worked on it on and off for four years. Steve Jobs told the magazine reporter that it was 24 person-years Apple had invested in QuickDraw.
 
 ![MacPaint (Source: https://www.computerhistory.org/)](/assets/img/posts/2022/08/05/quickpaint.jpg)
 
