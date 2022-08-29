@@ -2,7 +2,7 @@
 layout     : post
 author     : Alan Tai
 date       : 2022-08-05
-title      : The secrets to success in estimating software project proposals
+title      : 9 tips for estimating software project proposals
 image      : posts/2022/08/05/cover.jpg
 categories : Estimation
 ---
