@@ -108,5 +108,3 @@ Remember that the only way to narrow the Cone of Uncertainty is by removing the 
 No two software projects are the same. There are always some requirements of a project you have never done before and you don't know how to fulfil them. Instead of giving up proposing a solution that complies with all the requirements, proposing a solution that doesn't comply, surprisingly, might also work. This is because what the customer is looking for is not software that fulfils all the requirements. The customer wants to generate business value with the software you deliver.
 
 There is often more than one way to deliver the desired business value without working as the requirements specified. Try to tweak the requirements to something you are confident in estimating and delivering. The customer may love it!
-
-*Are you ready to level up your career by becoming a Software Engineer Consultant? Now is the best time to invest!*

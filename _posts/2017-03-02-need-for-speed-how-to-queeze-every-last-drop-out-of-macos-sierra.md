@@ -171,4 +171,3 @@ To make my Mac run at full speed without rebooting it for days, I do the followi
 * Use web-based alternatives of services, e.g. Slack, Zeplin
 
 Enjoy! Happy tweaking!
-

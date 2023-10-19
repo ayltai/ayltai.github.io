@@ -89,7 +89,3 @@ What’s more, you will be working in a nice office where many other princes, no
 Still not convinced?
 
 I have accepted the offer and joined [Zuhlke Hong Kong](https://www.glassdoor.com.hk/Reviews/Z%C3%BChlke-Reviews-E451902.htm) and live happily ever after.
-
-***
-
-**Bonus:** Check out [job openings](https://www.zuehlke-careers.com/cs?sid=7&cspid=39&hash=-1437062404) at Zuhlke Hong Kong

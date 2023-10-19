@@ -89,5 +89,3 @@ Understanding the importance of technical processes, software development lifecy
 By now, you should be amazed how Software Architects have all the knowledge and mastered all these skills. Well, the answer is, they don’t! It is simply not possible for one person to have all that. It takes a team of capable experts to build great products. Successful Software Architects are often effective leaders in having great members in their team and growing them to become something bigger than individuals.
 
 Software Architects are often seen as the representative of a team. They put great effort into leading, managing, and aligning the business side with the technical side. While people often think that leaders only lead in front, sometimes it takes all [five leadership styles](https://learn.coactive.com/your-leadership-approach) in one project. The leadership training [my company](https://www.zuehlke.com/en) offered taught just that.
-
-*Are you ready to level up your career by becoming a Software Architect? Now is the best time to invest!*
