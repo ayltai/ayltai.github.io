@@ -2,7 +2,7 @@
 layout     : post
 author     : Alan Tai
 date       : 2025-02-01
-title      : rethink vendor lock-in
+title      : "Rethinking vendor lock-in"
 image      : posts/2025/02/01/jose-fontano-pZld9PiPDno-unsplash.jpg
 categories : Architecture
 ---
