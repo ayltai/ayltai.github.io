@@ -10,7 +10,7 @@ Kubernetes - the name echoes through the halls of discussions on modern software
 
 ## The allure of Kubernetes
 
-![Photo by Anne Nygård on Unsplash](/assets/img/posts/2025/01/31/Gemini_Generated_Image_ju4onpju4onpju4o.jpeg)
+![Photo by Anne Nygård on Unsplash](/assets/img/posts/2025/01/31/Gemini_Generated_Image_ju4onpju4onpju4o.jpg)
 
 We've all seen it. A project starts, and someone suggests, "Let's just use Kubernetes!" The rationale often boils down to "everyone else is doing it" or "we might need to scale someday." While these points have some merit, they often overshadow the real cost and complexity Kubernetes introduces. It's like buying a heavy-duty construction crane when all you need is a stepladder.
 
@@ -22,7 +22,7 @@ But here's the catch: all that power comes at a price. It's not just about downl
 
 ### Complexity
 
-![](/assets/img/posts/2025/01/31/Gemini_Generated_Image_q4bi71q4bi71q4bi.jpeg)
+![](/assets/img/posts/2025/01/31/Gemini_Generated_Image_q4bi71q4bi71q4bi.jpg)
 
 Kubernetes is not simple. Let's be honest, it's downright complex. It has a steep learning curve, requiring expertise in concepts like pods, deployments, services, namespaces, ingresses, volumes, and a whole lot more. Managing a Kubernetes cluster effectively requires dedicated resources and a deep understanding of its intricacies. Think of it as learning a new language - you need to understand the grammar, vocabulary, and nuances to speak it fluently.
 
@@ -79,7 +79,7 @@ If your application is small, has a limited user base, and doesn't require signi
 
 ### Limited resources and expertise
 
-![](/assets/img/posts/2025/01/31/Gemini_Generated_Image_breo0cbreo0cbreo.jpeg)
+![](/assets/img/posts/2025/01/31/Gemini_Generated_Image_breo0cbreo0cbreo.jpg)
 
 If you don't have the resources or expertise to manage a Kubernetes cluster effectively, you might be better off with a simpler solution. Don't underestimate the effort required to learn and maintain Kubernetes. It's not just about deploying applications; it's about monitoring, troubleshooting, and keeping the cluster healthy. If your team is already stretched thin, adding Kubernetes to the mix could lead to burnout and frustration.
 
