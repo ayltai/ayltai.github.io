@@ -5,7 +5,7 @@ date       : 2024-01-12
 title      : How not to host your React app on a supercomputer
 subtitle   : Downsizing your cloud service like a savvy Brit
 image      : posts/2024/01/12/kraken.jpeg
-categories : Cloud, Kubernetes
+categories : Kubernetes
 ---
 Right, kettle on, crumpets in the toaster, a client with a static React app as basic as a cuppa. Just HTML, CSS, and enough JavaScript to animate a loading spinner. Yet, somehow, they are [convinced](https://hemanthmgowda.medium.com/how-to-serve-a-static-html-page-using-nginx-in-a-kubernetes-cluster-e4d2123879aa) to deploy this digital daisy to the world of Kubernetes cluster with enough [power](https://www.reddit.com/r/spacex/comments/2i07nk/what_is_the_total_power_of_an_f9_at_liftoff/) to launch a SpaceX rocket… yep, just another day in the life of a budget-conscious Brit dev.
 

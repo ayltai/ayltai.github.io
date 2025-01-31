@@ -2,9 +2,9 @@
 layout     : post
 author     : Alan Tai
 date       : 2024-05-08
-title      : "Securing CI/CD pipelines with OIDC, GitHub Actions, and Terraform"
+title      : Securing CI/CD pipelines with OIDC, GitHub Actions, and Terraform
 image      : posts/2024/05/08/red-padlock-on-black-computer-keyboard.jpg
-categories : Security, Terraform, AWS, GitHub
+categories : Security
 ---
 In regulated industries, where trust is paramount, the security of CI/CD pipelines is a non-negotiable priority. [Breaches within these pipelines](https://www.reversinglabs.com/blog/ci/cd-security-breaches-update-software-security-approach) can expose sensitive customer data and disrupt critical services, leading to devastating consequences. Traditional methods of storing long-lived credentials directly within the pipeline configuration create a vulnerability that erodes this trust. [OpenID Connect (OIDC)](https://openid.net/developers/how-connect-works/) offers a robust solution for secure authentication, and this article explores its implementation within a GitHub workflow using Terraform for provisioning resources on AWS.
 

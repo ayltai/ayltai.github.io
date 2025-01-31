@@ -2,9 +2,9 @@
 layout     : post
 author     : Alan Tai
 date       : 2025-01-31
-title      : "Kubernetes: A powerful tool, but not always the right one"
+title      : Kubernetes: A powerful tool, but not always the right one
 image      : posts/2025/01/31/anne-nygard-yYRAvcPrWms-unsplash.jpg
-categories : Kubernetes, Architecture
+categories : Kubernetes
 ---
 Kubernetes - the name echoes through the halls of discussions on modern software architecture. It's become synonymous with scalability, resilience, and modernisation. It's a powerful tool, no doubt, and a de facto standard in many backend systems. But like any powerful tool, it's crucial to understand its purpose and, more importantly, its limitations. Kubernetes is an *architectural decision*, not just a deployment choice, and deserves careful consideration.
 
