@@ -1,10 +1,10 @@
 ---
 layout     : post
 author     : Alan Tai
-date       : 2025-02-01
+date       : 2025-01-31
 title      : "Rethinking vendor lock-in"
-image      : posts/2025/02/01/jose-fontano-pZld9PiPDno-unsplash.jpg
-categories : Architecture
+image      : posts/2025/01/31/jose-fontano-pZld9PiPDno-unsplash.jpg
+categories : kubernetes-a-powerful-tool-but-not-always-the-right-onekubernetes-a-powerful-tool-but-not-always-the-right-one
 ---
 Vendor lock-in. The phrase itself conjures images of being trapped, handcuffed to a costly contract, unable to escape the clutches of a greedy vendor. It's the boogeyman whispered in hushed tones in architecture review meetings. We're taught from the beginning of our careers to avoid it at all costs, to maintain maximum optionality, and to build systems so loosely coupled they can effortlessly migrate between providers. But what if I told you this dogma, while well-intentioned, is often overly simplistic What if, sometimes, vendor lock-in isn't the enemy, but a strategic trade-off, a calculated risk for speed, efficiency, and focus?
 
