@@ -2,7 +2,7 @@
 layout     : post
 author     : Alan Tai
 date       : 2024-01-23
-title      : The Road Unmapped: Why Aspiring Full-Stack Engineers Should Forge Their Own Path
+title      : "The Road Unmapped: Why Aspiring Full-Stack Engineers Should Forge Their Own Path"
 image      : posts/2024/01/23/Uncharted-territories-1920x1080.jpg
 categories : Full-Stack
 ---

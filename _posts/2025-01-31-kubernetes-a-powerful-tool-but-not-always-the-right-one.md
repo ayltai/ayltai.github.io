@@ -2,7 +2,7 @@
 layout     : post
 author     : Alan Tai
 date       : 2025-01-31
-title      : Kubernetes: A powerful tool, but not always the right one
+title      : "Kubernetes: A powerful tool, but not always the right one"
 image      : posts/2025/01/31/anne-nygard-yYRAvcPrWms-unsplash.jpg
 categories : Kubernetes
 ---
