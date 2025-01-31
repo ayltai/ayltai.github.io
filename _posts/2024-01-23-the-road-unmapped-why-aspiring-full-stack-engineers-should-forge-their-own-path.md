@@ -4,7 +4,7 @@ author     : Alan Tai
 date       : 2024-01-23
 title      : "The Road Unmapped: Why Aspiring Full-Stack Engineers Should Forge Their Own Path"
 image      : posts/2024/01/23/Uncharted-territories-1920x1080.jpg
-categories : Full-Stack
+categories : Fullstack
 ---
 The siren song of the [full-stack developer](https://stackoverflow.blog/2019/10/17/imho-the-mythical-fullstack-engineer/) beckons many, promising versatility, independence, and mastery of the digital landscape. These well-intentioned [roadmaps](https://roadmap.sh/full-stack), while offering a comforting illusion of certainty and efficiency, risk obscuring the true essence of full-stack mastery and leaving aspiring engineers feeling overwhelmed and uninspired. Instead, I propose a different path, one forged not through pre-defined steps, but through navigating uncharted territories and the art of problem-driven learning.
 
